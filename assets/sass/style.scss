@@ -1,0 +1,32 @@
+//import colors
+@import "./common/colors/colors.scss";
+
+//import header propriets
+@import "./common/header-footer/header.scss";
+
+//import footer propriets
+
+@import "./common/header-footer/footer.scss";
+
+//import main propriets 
+
+@import "./common/main/main.scss";
+
+//import home propriets
+@import "./pages/home/home.scss";
+
+//import media querys
+
+@import "./common/media-querys/media-querys.scss";
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+
+

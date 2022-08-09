@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 5vh;
+    flex: 1 0 30px;
+    background-color: $background-header-footer;
+    color: #fff;
+    font-size: 1.1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+
+    a{
+        color: #ffffff;
+        border-bottom: 1px solid transparent;
+        transition: .4s;
+        
+        
+        &:hover{
+        color: #e0e0e0;
+        border-bottom: 1px solid #e0e0e0;
+            
+        }
+    }
+
+    
+}
