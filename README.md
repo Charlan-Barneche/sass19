@@ -5,7 +5,7 @@
     <div>
         <ul>
          <li>HTML 5 <img align="center" width="25px" alt="HTML5" src="https://i.imgur.com/BzwyCup.png"></li>
-         <li>Sass <img align="center" width="25px" alt="SASS" src="https://imgur.com/a/EYCvDch.png"></li>
+         <li>SASS  <img align="center" width="25px" alt="SASS" src="https://i.imgur.com/s2tTenJ.png"></li>
         </ul>
     </div>
   <h2></h2>
